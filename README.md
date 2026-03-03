@@ -1,13 +1,15 @@
 <div align="center">
 
+<img src="https://image-placeholder.com/generate/16:9?text=Phan+Khánh+Vũ+-+HUST+-+SINNO+Club&style=minecraft-futuristic-art-banner&id=vzair2" alt="Minecraft Futuristic Adventure Banner - Phan Khánh Vũ" width="100%" />
+
 # 🛠️ [Level 20] PHAN KHÁNH VŨ 🧱
 ### 🌍 *Adventurer | Digital Creator | Future Engineer*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45BF3F&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Exploring+the+Digital+Biome;Crafting+Medieval+Worlds;SINNO+Club's+Messenger." alt="Minecraft Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=minecraft" />
-  <img src="https://img.shields.io/badge/Class-IT--E6%20K68%20HUST-red?style=for-the-badge&logo=university" />
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=minecraft" alt="Status: Online"/>
+  <img src="https://img.shields.io/badge/Class-IT--E6%20K68%20HUST-red?style=for-the-badge&logo=university" alt="Class: IT-E6 K68 HUST"/>
 </p>
 
 </div>
@@ -58,6 +60,8 @@
 <div align="center">
 
 ![GitHub Metrics](https://raw.githubusercontent.com/PhanKhanhVu/PhanKhanhVu/main/github-metrics.svg)
+
+*(Dữ liệu được cập nhật từ lò rèn GitHub Action hàng ngày)*
 
 </div>
 
