@@ -1,73 +1,48 @@
-<div align="center">
+# Hi there, I'm Vũ (vzair2) 👋 🚀
 
-### 📘 IT日本語(2) • 🇻🇳 Tiếng Nhật Công nghệ Thông tin (2)
+### 🎓 IT Student | Tech Enthusiast | Digital Creator
 
-[![HUST](https://img.shields.io/badge/University-HUST-red.svg)](https://www.hust.edu.vn/)
-[![Level](https://img.shields.io/badge/Goal-JLPT_N3-blue.svg)](#)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](#)
-[![Design](https://img.shields.io/badge/Style-UI%2FUX_Focused-orange.svg)](#)
+I am currently a student of **IT-E6 K68 at Hanoi University of Science and Technology (HUST)**. Beyond the lines of code, I’m a creative soul serving as the **Head of Communications @ SINNO Club**. I live at the intersection of technology, media, and innovation.
 
 ---
 
-**"Language is the bridge between logic and humans."** *Ngôn ngữ là cầu nối giữa logic và con người.*
-
-[English](#-overview) • [日本語](#-概要) • [Tiếng Việt](#-tổng-quan)
-
-</div>
-
----
-
-## 📖 Overview / 概要 / Tổng quan
-
-| Ngôn ngữ | Mô tả |
-| :--- | :--- |
-| **English** | Professional archive for materials, assignments, and technical vocabulary for the **IT Japanese (2)** course at HUST. |
-| **日本語** | ハノイ工科大学の**IT日本語(2)**コースの資料、課題、専門用語を管理するリポジトリです。 |
-| **Tiếng Việt** | Kho lưu trữ chuyên nghiệp cho tài liệu, bài tập và từ vựng chuyên ngành môn **Tiếng Nhật CNTT (2)** tại Bách Khoa. |
+### 💡 About Me
+- 🏫 **Education:** IT-E6 K68 @ HUST (Bach Khoa Hanoi).
+- 🚩 **Leadership:** Head of Communications at **SINNO Club** – where technology meets creativity.
+- 🎨 **Interests:** UI/UX Design, Front-end Development, and Digital Media.
+- 🎮 **Chill time:** Minecraft (Medieval & Fantasy builds), Valorant, and Wuthering Waves.
+- 🇯🇵 **Learning:** Currently diving into IT Nihongo (Japanese for IT).
 
 ---
 
-## 📂 Repository Structure / 構成
+### 🛠 Tech Stack & Tools
 
-```bash
-# Cấu trúc thư mục tối ưu cho việc tra cứu
-.
-├── 📁 assignments/         # 課題 - Bài tập về nhà & Lab
-├── 📁 lexicon/             # 専門用語 - Từ vựng IT (Software, Network, Design)
-├── 📁 docs/                # Slide bài giảng & Tài liệu dịch chuyên ngành
-└── 📁 assets/              # Sơ đồ & Ảnh minh họa (UI/UX)
+**Programming & Dev:**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-```
-
----
-
-## 🗓 Curriculum Progress / 進捗状況
-
-| Week | Topic (EN) | Topic (JP) | Status |
-| --- | --- | --- | --- |
-| 01 | Software Development Process | ソフトウェア開発プロセス | ✅ |
-| 02 | Requirements Definition | 要件定義 | 🟡 |
-| 03 | System Design | システム設計 | ⌛ |
+**Design & Creative:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 ---
 
-## ⛩️ Quick Lexicon / 専門用語
-
-> [!TIP]
-> Nhấn vào các mục dưới đây để xem nhanh thuật ngữ quan trọng.
-
-* **Analysis:** 分析 (Bunseki)
-* **Deployment:** 展開 (Tenkai) / デプロイ
-* **Maintenance:** 保守 (Hoshu)
-
-* **Bug/Error:** 不具合 (Fuguai)
-* **Validation:** 妥当性確認 (Datousei kakunin)
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Vũ's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+</p>
 
 ---
 
-## 👤 Author / 著者
+### 📱 Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BT9fyK5XW/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@vzair2)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi3sirin@gmail.com)
 
-**Phan Khánh Vũ** *Student at Hanoi University of Science and Technology (HUST)*.
+---
 
-*Passionate about **UI/UX Design**, **Front-end Development**, and **Japanese Language**.*.
-
+*“Logic will get you from A to B. Imagination will take you everywhere.”* 🚀
