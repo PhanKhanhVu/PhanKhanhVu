@@ -1,48 +1,83 @@
-# Hi there, I'm Vũ (vzair2) 👋 🚀
+<div align="center">
 
-### 🎓 IT Student | Tech Enthusiast | Digital Creator
+# 👋 Hello! I'm Phan Khánh Vũ
 
-I am currently a student of **IT-E6 K68 at Hanoi University of Science and Technology (HUST)**. Beyond the lines of code, I’m a creative soul serving as the **Head of Communications @ SINNO Club**. I live at the intersection of technology, media, and innovation.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT-E6+K68+HUST+%F0%9F%8E%93;Digital+Creator+%26+Tech+Enthusiast+%F0%9F%92%A1;Head+of+Communications+%40+SINNO+Club+%F0%9F%93%A2;Imagine+and+Create." alt="Typing SVG" />
 
----
-
-### 💡 About Me
-- 🏫 **Education:** IT-E6 K68 @ HUST (Bach Khoa Hanoi).
-- 🚩 **Leadership:** Head of Communications at **SINNO Club** – where technology meets creativity.
-- 🎨 **Interests:** UI/UX Design, Front-end Development, and Digital Media.
-- 🎮 **Chill time:** Minecraft (Medieval & Fantasy builds), Valorant, and Wuthering Waves.
-- 🇯🇵 **Learning:** Currently diving into IT Nihongo (Japanese for IT).
+</div>
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 💫 About Me
 
-**Programming & Dev:**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🎓 **IT-E6 K68 HUST Student, Hanoi** 🚩 **Head of Communications @ SINNO Club** 🎨 **Interested in UI/UX Design and Front-end Development** 🇯🇵 **Learning IT Nihongo (Japanese)** 🎮 **Hobbies:** Minecraft (Medieval & Fantasy builds), Valorant, Wuthering Waves  
+🎧 **Interests:** Technology, Media, Creative Innovation  
+🌍 **Languages:** Vietnamese, English, 日本語
 
-**Design & Creative:**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+---
+
+## 💻 Tech Stack
+
+### 🚀 Programming & Frontend
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🎨 Design & Creative Tools
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 🛠 Tools & OS
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D4.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Vũ's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=PhanKhanhVu&theme=react-dark&days=20)
+
+![](https://nirzak-streak-stats.vercel.app/?user=PhanKhanhVu&theme=transparent&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanKhanhVu&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12)
+
+</div>
 
 ---
 
-### 📱 Connect with me
+## 🌐 Connect with Me
+
+<div align="center">
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BT9fyK5XW/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@vzair2)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi3sirin@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi3sirin@gmail.com)
+
+<p align="center"> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PhanKhanhVu.visitor-badge" alt="Visitor Count"/>
+</p>
+
+</div>
 
 ---
 
-*“Logic will get you from A to B. Imagination will take you everywhere.”* 🚀
+## 💬 Favorite Quotes
+
+> _"Logic will get you from A to B. Imagination will take you everywhere."_ - Albert Einstein
+
+---
+
+<div align="center">
+
+### ⭐ If you like this profile, please leave a star!
+
+</div>
