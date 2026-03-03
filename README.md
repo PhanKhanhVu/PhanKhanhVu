@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://image-placeholder.com/generate/16:9?text=Phan+Khánh+Vũ+-+HUST+-+SINNO+Club&style=minecraft-futuristic-art-banner&id=vzair2" alt="Minecraft Futuristic Adventure Banner - Phan Khánh Vũ" width="100%" />
-
 # 🛠️ [Level 20] PHAN KHÁNH VŨ 🧱
 ### 🌍 *Adventurer | Digital Creator | Future Engineer*
 
