@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: nqd2
+          user: PhanKhanhVu
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
